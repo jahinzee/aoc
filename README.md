@@ -10,9 +10,9 @@ Run each solution with Python - no external modules or packages required. Inputs
 can be passed in by file argument or `stdin`.
 
 ```sh
-$ python 2024/1.py input.txt
+$ python 2025/1.py input.txt
 # or
-$ cat input.txt | python 2024/1.py
+$ cat input.txt | python 2025/1.py
 ```
 
 Output for all code will be in part order. Input files are not provided in this repo.
