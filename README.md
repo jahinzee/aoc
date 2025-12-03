@@ -2,7 +2,7 @@
 
 My solutions for [Advent of Code](https://adventofcode.com), written in Python.
 
-Solutions will not be published before the global leaderboard gold cap has been reached.
+~~Solutions will not be published before the global leaderboard gold cap has been reached.~~
 
 ## Usage
 
